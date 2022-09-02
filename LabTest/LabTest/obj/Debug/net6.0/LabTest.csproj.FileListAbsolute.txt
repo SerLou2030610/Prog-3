@@ -1,0 +1,15 @@
+C:\Code\Prog3\LabTest\LabTest\bin\Debug\net6.0\LabTest.exe
+C:\Code\Prog3\LabTest\LabTest\bin\Debug\net6.0\LabTest.deps.json
+C:\Code\Prog3\LabTest\LabTest\bin\Debug\net6.0\LabTest.runtimeconfig.json
+C:\Code\Prog3\LabTest\LabTest\bin\Debug\net6.0\LabTest.dll
+C:\Code\Prog3\LabTest\LabTest\bin\Debug\net6.0\LabTest.pdb
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.csproj.AssemblyReference.cache
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.AssemblyInfoInputs.cache
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.AssemblyInfo.cs
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.csproj.CoreCompileInputs.cache
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.dll
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\refint\LabTest.dll
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.pdb
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\LabTest.genruntimeconfig.cache
+C:\Code\Prog3\LabTest\LabTest\obj\Debug\net6.0\ref\LabTest.dll
